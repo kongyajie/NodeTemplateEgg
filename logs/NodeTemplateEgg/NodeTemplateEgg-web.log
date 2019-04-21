@@ -1,0 +1,185 @@
+2019-04-21 19:05:03,490 ERROR 30674 [-/127.0.0.1/-/12ms GET /api/todo/getAll] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.getAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/Todo.js:6:23)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 30674
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:28:59,785 ERROR 31945 [-/127.0.0.1/-/8ms GET /api/todo/getAll] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.getAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/Todo.js:6:23)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 31945
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:30:58,196 ERROR 32213 [-/127.0.0.1/-/10ms GET /api/todo/getAll] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.getAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/Todo.js:6:23)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 32213
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:38:22,812 ERROR 32607 [-/127.0.0.1/-/10ms GET /api/todo/getAll] nodejs.TypeError: "string" must be a string, Buffer, or ArrayBuffer
+    at Function.byteLength (buffer.js:481:11)
+    at respond (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:245:25)
+    at handleResponse (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:149:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 32607
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:41:39,523 ERROR 32799 [-/127.0.0.1/-/8ms GET /api/todo/getAll] nodejs.TypeError: "string" must be a string, Buffer, or ArrayBuffer
+    at Function.byteLength (buffer.js:481:11)
+    at respond (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:245:25)
+    at handleResponse (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:149:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 32799
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:42:14,501 ERROR 32862 [-/127.0.0.1/-/11ms GET /api/todo/getAll] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.getAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/todo.js:7:23)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 32862
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:50:21,348 ERROR 33286 [-/127.0.0.1/-/8ms GET /api/todo/getAll] nodejs.TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at respond (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:243:15)
+    at handleResponse (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:149:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 33286
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:53:54,033 ERROR 33476 [-/127.0.0.1/-/9ms GET /api/todo/getAll] nodejs.ReferenceError: app is not defined
+    at TodoService.queryAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/service/todo.js:5:5)
+    at TodoController.getAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/todo.js:7:44)
+    at Object.callFn (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-compose/index.js:45:18)
+    at /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-compose/index.js:44:32)
+
+pid: 33476
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:54:02,131 ERROR 33476 [-/127.0.0.1/-/1ms GET /api/todo/getAll] nodejs.ReferenceError: app is not defined
+    at TodoService.queryAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/service/todo.js:5:5)
+    at TodoController.getAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/todo.js:7:44)
+    at Object.callFn (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-compose/index.js:45:18)
+    at /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-compose/index.js:44:32)
+
+pid: 33476
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 19:54:47,193 ERROR 33524 [-/127.0.0.1/-/8ms GET /api/todo/getAll] nodejs.TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at respond (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:243:15)
+    at handleResponse (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/application.js:149:34)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 33524
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 21:49:09,825 ERROR 39451 [-/::1/-/10ms GET /api/todo/queryAll?_=1555854549807] nodejs.TypeError: this.success is not a function
+    at TodoService.queryAll (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/service/todo.js:6:10)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 39451
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 21:53:06,565 WARN 39665 [-/::1/-/2ms POST /api/todo/delete/1?_=1555854786560] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-21 21:53:06,567 WARN 39665 [-/::1/-/3ms POST /api/todo/delete/1?_=1555854786560] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 39665
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 21:53:54,177 WARN 39710 [-/::1/-/23ms POST /api/todo/create?_=1555854834149] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-21 21:53:54,180 WARN 39710 [-/::1/-/25ms POST /api/todo/create?_=1555854834149] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 39710
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 22:06:22,906 WARN 40426 [-/::1/-/21ms POST /api/todo/create?_=1555855582879] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-21 22:06:22,908 WARN 40426 [-/::1/-/23ms POST /api/todo/create?_=1555855582879] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/app/extend/context.js:148:17)
+    at csrf (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 40426
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 22:10:30,183 ERROR 40634 [-/::1/-/30ms POST /api/todo/create?_=1555855830146] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.createTodo (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/todo.js:14:20)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 40634
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 22:18:12,311 ERROR 41037 [-/::1/-/20ms POST /api/todo/create?_=1555856292284] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.createTodo (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/todo.js:14:20)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 41037
+hostname: kongyajiedeMacBook-Pro.local
+
+2019-04-21 22:18:40,094 ERROR 41074 [-/::1/-/21ms POST /api/todo/create?_=1555856320066] nodejs.TypeError: (intermediate value) is not iterable
+    at TodoController.createTodo (/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/app/controller/todo.js:14:20)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 41074
+hostname: kongyajiedeMacBook-Pro.local
+

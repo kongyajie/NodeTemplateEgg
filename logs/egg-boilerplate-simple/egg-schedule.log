@@ -1,0 +1,16 @@
+2019-04-21 17:01:02,223 INFO 25287 [Timer] /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25137779ms at 2019-04-22 00:00:00.002
+2019-04-21 17:01:02,223 INFO 25287 [Timer] /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25138777ms at 2019-04-22 00:00:01.000
+2019-04-21 17:01:02,133 INFO 25290 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:01:02,133 INFO 25290 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-21 17:46:06,634 INFO 26250 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:46:06,635 INFO 26250 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-21 17:46:17,343 INFO 26261 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:46:17,343 INFO 26261 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-21 17:47:34,481 INFO 26340 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:47:34,481 INFO 26340 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-21 17:47:43,450 INFO 26345 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:47:43,450 INFO 26345 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-21 17:57:15,150 INFO 26952 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:57:15,150 INFO 26952 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-21 17:57:16,884 INFO 26965 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 17:57:16,885 INFO 26965 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

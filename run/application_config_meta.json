@@ -1,0 +1,269 @@
+{
+  "keys": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+      "port": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+      "user": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+      "password": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+      "database": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js"
+    },
+    "app": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+    "agent": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+    "default": {
+      "database": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+    "allowMethods": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js"
+  },
+  "security": {
+    "csrf": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/config/config.default.js",
+    "domainWhiteList": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "name": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "version": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "description": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "main": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "license": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "env": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "level": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "port": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/AaronKong/Desktop/workplace/learn/back-end/egg/NodeTemplateEgg/node_modules/egg/config/config.default.js"
+}
